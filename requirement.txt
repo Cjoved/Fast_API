@@ -1,0 +1,10 @@
+transformers
+torch
+numpy
+scikit-learn
+nltk
+python-docx
+requests
+spacy
+fastapi 
+uvicorn
